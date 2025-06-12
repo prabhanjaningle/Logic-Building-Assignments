@@ -1,9 +1,11 @@
  ////////////////////////////////////////////////////////////////////////////////////////////
 //Author : Prabhanjan Sanjay Ingle
-//Description : Take A number of elements from user and Display frequency of even numbers
+//Description : Accept N numbers from user and accept one another number as NO , 
+//              check whether NO is present or not.
 //Input : Number of elements : 4
+//NO : 5
 //Elements : 5 8 15 44
-//Output : 44
+//Output : True
 //Date : 08-06-2025
 ////////////////////////////////////////////////////////////////////////////////////////////
 
