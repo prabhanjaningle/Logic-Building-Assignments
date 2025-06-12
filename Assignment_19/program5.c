@@ -3,7 +3,8 @@
 //Description : Take A number of elements and NO from user and Display frequency of that NO 
 //Input : Number of elements : 4
 //Elements : 5 8 15 44
-//Output : 44
+//NO : 44
+//Output : 1
 //Date : 08-06-2025
 ////////////////////////////////////////////////////////////////////////////////////////////
 
