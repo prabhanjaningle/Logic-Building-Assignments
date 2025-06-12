@@ -1,10 +1,11 @@
  ////////////////////////////////////////////////////////////////////////////////////////////
 //Author : Prabhanjan Sanjay Ingle
-//Description : Take A number of elements from user and Display difference frequency of 
-//              even numbers and odd numbers
+//Description :Accept N numbers from user and accept one another number as NO , 
+//            return index of first occurrence of that NO. .
 //Input : Number of elements : 4
-//Elements : 5 8 15 44
-//Output : 44
+//Elements : 5 8 5 44
+//NO : 5
+//Output : 0
 //Date : 08-06-2025
 ////////////////////////////////////////////////////////////////////////////////////////////
 
