@@ -1,0 +1,26 @@
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//Author : Prabhanjan Sanjay Ingle
+//Description : Recursive program to generate below pattern
+/*
+    * * * * *
+*/
+//Date : 19-07-2025
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+#include <stdio.h>
+
+void Display()
+{
+    static int iCnt = 1;
+    if(iCnt <= 5)
+    {
+        printf("* ");
+        iCnt++;
+        Display();
+    }
+}
+
+int main()
+{
+    Display();
+    return 0;
+}
